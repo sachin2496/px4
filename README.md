@@ -3,6 +3,9 @@
 install px4 by following command
 mkdir PX4
 cd PX4
+#installing autopilot
+git clone https://github.com/PX4/PX4-Autopilot.git --recursive
+
 
 
 install Gstreamer by following command in terminal
