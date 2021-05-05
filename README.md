@@ -22,6 +22,8 @@ sudo apt-get install libgstreamer1.0-0 gstreamer1.0-plugins-base gstreamer1.0-pl
 make px4_sitl gazebo
 
 git clone https://github.com/hex-plex/ROS-Practice.git
+
 cd ROS-Practice/
+
 cp -r mav_examples ~/catkin_wc/src
 
